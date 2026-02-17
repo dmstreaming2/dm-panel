@@ -27,7 +27,7 @@ const ITEMS: Item[] = [
   {
     id: "1",
     type: "platform",
-    title: "Autodesk",
+    title: "AutoD 1 año",
     subtitle: "Acceso anual",
     tags: ["Diseño", "Pro"],
     details: "Disponible por DM",
@@ -38,7 +38,7 @@ const ITEMS: Item[] = [
   {
     id: "2",
     type: "platform",
-    title: "Canva Panel",
+    title: "C4NV4 P4N (500 US)",
     subtitle: "Multi-usuarios",
     tags: ["Diseño", "Equipo"],
     details: "Disponible por DM",
@@ -49,7 +49,7 @@ const ITEMS: Item[] = [
   {
     id: "3",
     type: "platform",
-    title: "ChatGPT",
+    title: "IA GPT",
     subtitle: "Plus / Business",
     tags: ["IA"],
     details: "Disponible por DM",
@@ -60,7 +60,7 @@ const ITEMS: Item[] = [
   {
     id: "4",
     type: "platform",
-    title: "Gemini IA Pro",
+    title: "G3M1N1 PRO 1 AÑO",
     subtitle: "Plan Pro",
     tags: ["IA"],
     details: "Disponible por DM",
@@ -71,7 +71,7 @@ const ITEMS: Item[] = [
   {
     id: "5",
     type: "platform",
-    title: "Beautiful.ai",
+    title: "B34T1FUL 1A 1 AÑO",
     subtitle: "Presentaciones",
     tags: ["IA", "Diseño"],
     details: "Disponible por DM",
@@ -82,7 +82,7 @@ const ITEMS: Item[] = [
   {
     id: "6",
     type: "platform",
-    title: "Adobe Cloud",
+    title: "AD0B3 CL0",
     subtitle: "Suite",
     tags: ["Diseño"],
     details: "Disponible por DM",
@@ -93,7 +93,7 @@ const ITEMS: Item[] = [
   {
     id: "7",
     type: "platform",
-    title: "Perplexity",
+    title: "PERPL3X",
     subtitle: "IA",
     tags: ["IA"],
     details: "Disponible por DM",
@@ -106,7 +106,7 @@ const ITEMS: Item[] = [
   {
     id: "8p",
     type: "platform",
-    title: "Disney+",
+    title: "DisN+",
     subtitle: "Streaming",
     tags: ["Series", "Películas"],
     details: "Disponible por DM",
@@ -117,7 +117,7 @@ const ITEMS: Item[] = [
   {
     id: "9p",
     type: "platform",
-    title: "Crunchyroll",
+    title: "Crunch",
     subtitle: "Anime",
     tags: ["Anime", "Series"],
     details: "Disponible por DM",
@@ -128,7 +128,7 @@ const ITEMS: Item[] = [
   {
     id: "10p",
     type: "platform",
-    title: "HBO Max",
+    title: "M4XIT0",
     subtitle: "Streaming",
     tags: ["Series", "Películas"],
     details: "Disponible por DM",
@@ -139,7 +139,7 @@ const ITEMS: Item[] = [
   {
     id: "11p",
     type: "platform",
-    title: "Spotify",
+    title: "Spot1",
     subtitle: "Música",
     tags: ["Música", "Premium"],
     details: "Disponible por DM",
@@ -152,7 +152,7 @@ const ITEMS: Item[] = [
   {
     id: "m1",
     type: "method",
-    title: "Métodos Variados",
+    title: "M3t0d0s V4ri4d0s",
     subtitle: "Accesos + herramientas",
     tags: ["Variado", "Soporte", "Actualizado"],
     details: "Acceso a varias opciones. Disponible por DM.",
@@ -163,7 +163,7 @@ const ITEMS: Item[] = [
   {
     id: "m2",
     type: "method",
-    title: "Método VINO",
+    title: "M3t0d0 V1N0",
     subtitle: "Básico a avanzado",
     tags: ["Guía", "Soporte"],
     details: "Aprende desde cero, resuelve dudas, práctica guiada.",
@@ -174,7 +174,7 @@ const ITEMS: Item[] = [
   {
     id: "m3",
     type: "method",
-    title: "BOT IPTV",
+    title: "B0T 1PTV",
     subtitle: "Acceso 1 mes",
     tags: ["TV", "Series", "Películas"],
     details: "Disponible por DM",
@@ -531,3 +531,4 @@ export default function DashboardPage() {
     </div>
   );
 }
+
